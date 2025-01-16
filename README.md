@@ -1,8 +1,12 @@
 # Data-Professional-Survey-Analysis
 
-* This report provides an analysis of data professionals, focusing on job roles, demographics, and survey responses. 
-* Extensive data cleaning and transformation were performed in Power Query to prepare the raw data for analysis. 
-* The report includes visualizations on salary trends, role comparisons, and geographic distribution, offering an overview of the data professional landscape.
+This project involved creating an interactive Power BI dashboard to analyze trends among data professionals, focusing on roles, salaries, job satisfaction, and demographics.
+
+**Data Retrieval:**
+Source: Survey data on data professionals.
+
+**Process:**
+Raw data was cleaned and transformed extensively in Power Query to ensure consistency and accuracy. Unnecessary fields were removed, duplicates were handled, and categorical variables were standardized.
 
 ### Data Professional Survey Report
 
@@ -14,11 +18,16 @@
 | **Visual Insights**      | Salary trends, role-specific satisfaction, education levels, and programming preferences. |
 | **Purpose**              | To understand trends and patterns in the data professional landscape.        |
 
---- 
 
-**Visualizations:**
-* Salary comparisons by role and country.
-* Job satisfaction metrics by role and category.
-* Age vs. salary analysis segmented by roles.
-* Favorite programming languages by job title.
-* Education level breakdown by role.
+**Workflow in Power BI:**
+Data Cleaning: Performed in Power Query to prepare raw survey data for analysis.
+
+**Visualization:**
+Built dashboards to explore salary trends, education levels, and programming preferences by role and region.
+
+**Tools:**
+Power BI: For data transformation and visualization.
+DAX: For advanced calculations and insights.
+
+**Outcome:**
+The dashboard provided an interactive overview of the data professional landscape, enabling comparative analysis by role, country, and demographic factors. It supports data-driven decision-making and highlights trends in the industry.
