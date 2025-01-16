@@ -3,7 +3,7 @@
 This project involved creating an interactive Power BI dashboard to analyze trends among data professionals, focusing on roles, salaries, job satisfaction, and demographics.
 
 **Data Retrieval:**
-Source: Survey data on data professionals.
+Survey data on data professionals.
 
 **Process:**
 Raw data was cleaned and transformed extensively in Power Query to ensure consistency and accuracy. Unnecessary fields were removed, duplicates were handled, and categorical variables were standardized.
