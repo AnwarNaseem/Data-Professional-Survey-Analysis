@@ -1,6 +1,8 @@
 # Data-Professional-Survey-Analysis
 
-This Power BI report provides insights into the trends and factors influencing the careers of data professionals, including roles such as Data Analyst, Data Scientist, Data Engineer, and more. The analysis is based on survey data covering key aspects such as salaries, job satisfaction, education, and programming language preferences across multiple countries.
+* This report provides an analysis of data professionals, focusing on job roles, demographics, and survey responses. 
+* Extensive data cleaning and transformation were performed in Power Query to prepare the raw data for analysis. 
+* The report includes visualizations on salary trends, role comparisons, and geographic distribution, offering an overview of the data professional landscape.
 
 ### Data Professional Survey Report
 
