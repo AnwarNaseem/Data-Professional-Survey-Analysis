@@ -14,7 +14,7 @@ This Power BI report provides insights into the trends and factors influencing t
 
 --- 
 
-** Visualizations: **
+**Visualizations:
 * Salary comparisons by role and country.
 * Job satisfaction metrics by role and category.
 * Age vs. salary analysis segmented by roles.
