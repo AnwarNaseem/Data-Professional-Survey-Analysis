@@ -26,7 +26,9 @@ Data Cleaning: Performed in Power Query to prepare raw survey data for analysis.
 Built dashboards to explore salary trends, education levels, and programming preferences by role and region.
 
 **Tools:**
+
 Power BI: For data transformation and visualization.
+
 DAX: For advanced calculations and insights.
 
 **Outcome:**
