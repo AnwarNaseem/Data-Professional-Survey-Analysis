@@ -33,3 +33,9 @@ DAX: For advanced calculations and insights.
 
 **Outcome:**
 The dashboard provided an interactive overview of the data professional landscape, enabling comparative analysis by role, country, and demographic factors. It supports data-driven decision-making and highlights trends in the industry.
+
+<img width="1288" height="724" alt="Data Professionals Survey Dashboard 1" src="https://github.com/user-attachments/assets/684614a2-968b-4ad4-9dbd-b482b5f7ab1e" />
+
+<img width="1284" height="720" alt="Data Professionals Survey Dashboard 2" src="https://github.com/user-attachments/assets/5c7e2b6f-74a1-4d04-b0c0-7c6cc177e4cd" />
+
+<img width="1283" height="721" alt="Data Professionals Survey Dashboard 3" src="https://github.com/user-attachments/assets/009f5465-eec6-440e-8fca-c6a33ee49ae2" />
